@@ -65,7 +65,7 @@ opublikuj swoje tłumaczenie przy pomocy GitHub Pages. Twoja praca zostanie podl
 Masz możliwość uruchomienia swojego tłumaczenia w adresie GitHub, np. `[username].github.com/php-the-right-way`
 lub w naszej subdomenie, np. `ru.phptherightway.com`. Jeżeli chcesz skorzystać z subdomeny, wpisz jej nazwę w pliku
 `CNAME`, który znajduje się w głównym katalogu projektu. W przeciwnym wypadku usuń ten plik całkowicie, gdyż w
-przeciwnym razie Twoje strona nie opublikuje się.
+przeciwnym razie Twoja strona nie opublikuje się.
 
 Po zakończeniu swojej pracy dodaj zgłoszenie w Issue Trackerze oryginalnego repozytorium, abyśmy mogli podlinkować
 Twoją pracę.
